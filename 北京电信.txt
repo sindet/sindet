@@ -155,4 +155,3 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/index.m3u8
 新闻综合,http://play.live.lijiangtv.com/live/tvzh.m3u8
 文化旅游,http://play.live.lijiangtv.com/live/tvgg.m3u8
-
