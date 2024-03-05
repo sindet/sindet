@@ -36,7 +36,7 @@ http://192.168.28.1:23234/rtp/228.1.1.181:8144
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://192.168.28.1:23234/rtp/228.1.1.23:8004
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
-http://192.168.28.1:23234/rtp/228.1.1.245:2000
+http://192.168.28.1:23234/rtp/228.1.1.123:8001
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
 http://192.168.28.1:23234/rtp/228.1.1.213:4220
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
