@@ -63,7 +63,7 @@ http://192.168.28.1:23234/rtp/228.1.1.196:8000
 http://192.168.28.1:23234/rtp/228.1.1.190:8000
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京频道",北京财经
 http://192.168.28.1:23234/rtp/228.1.1.197:8000
-#EXTINF:-1 tvg-name="体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京频道",体育休闲
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京频道",体育休闲
 http://192.168.28.1:23234/rtp/228.1.1.117:8000
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京频道",北京生活
 http://192.168.28.1:23234/rtp/228.1.1.198:8000
