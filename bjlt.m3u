@@ -157,7 +157,7 @@ http://192.168.28.1:23234/rtp/239.3.1.144:4120
 http://192.168.28.1:23234/rtp/239.3.1.161:8001
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视频道",中国交通
 http://192.168.28.1:23234/rtp/239.3.1.188:8001
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
+#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://192.168.28.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视频道",金鹰纪实
 http://192.168.28.1:23234/rtp/239.3.1.58:8156
@@ -165,15 +165,15 @@ http://192.168.28.1:23234/rtp/239.3.1.58:8156
 http://192.168.28.1:23234/rtp/239.3.1.51:9252
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="卫视频道",嘉佳卡通
 http://192.168.28.1:23234/rtp/239.3.1.147:9268
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
 http://192.168.28.1:23234/rtp/239.3.1.57:8152
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
 http://192.168.28.1:23234/rtp/239.3.1.54:4120
-#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV3
+#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV3
 http://192.168.28.1:23234/rtp/239.3.1.55:4120
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
 http://192.168.28.1:23234/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
 http://192.168.28.1:23234/rtp/239.3.1.52:4120
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="卫视频道",财富天下
 http://192.168.28.1:23234/rtp/239.3.1.53:9136
@@ -191,19 +191,19 @@ http://192.168.28.1:23234/rtp/239.3.1.127:8001
 http://192.168.28.1:23234/rtp/239.3.1.128:8001
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体验频道",快乐垂钓
 http://192.168.28.1:23234/rtp/239.3.1.164:8001
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
 http://192.168.28.1:23234/rtp/239.3.1.165:8001
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",大健康
 http://192.168.28.1:23234/rtp/239.3.1.251:8001
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘电影
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘电影
 http://192.168.28.1:23234/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
 http://192.168.28.1:23234/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-name="淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
+#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
 http://192.168.28.1:23234/rtp/239.3.1.178:8001
-#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘娱乐
+#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘娱乐
 http://192.168.28.1:23234/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-name="淘宝贝" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘宝贝
+#EXTINF:-1 tvg-name="北京淘宝贝" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘宝贝
 http://192.168.28.1:23234/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",萌宠TV
 http://192.168.28.1:23234/rtp/239.3.1.102:8001
