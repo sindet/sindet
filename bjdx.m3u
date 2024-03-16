@@ -165,13 +165,13 @@ http://192.168.28.1:23234/rtp/225.1.8.163:9252
 http://192.168.28.1:23234/rtp/225.1.8.170:9268
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视频道",中国交通
 http://192.168.28.1:23234/rtp/225.1.8.208:8002
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
+#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
 http://192.168.28.1:23234/rtp/225.1.8.32:8152
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
+#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
 http://192.168.28.1:23234/rtp/225.1.8.193:4120
-#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV3
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV3
 http://192.168.28.1:23234/rtp/225.1.8.194:4120
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
 http://192.168.28.1:23234/rtp/225.1.8.195:4120
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
 http://192.168.28.1:23234/rtp/225.1.8.190:4120
