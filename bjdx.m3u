@@ -189,7 +189,7 @@ http://192.168.28.1:23234/rtp/225.1.8.214:8002
 http://192.168.28.1:23234/rtp/225.1.8.215:8002
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体验频道",快乐垂钓
 http://192.168.28.1:23234/rtp/225.1.8.71:8002
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
 http://192.168.28.1:23234/rtp/225.1.8.72:8002
 #EXTINF:-1 tvg-name="大健康" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",大健康
 http://192.168.28.1:23234/rtp/225.1.8.39:8002
