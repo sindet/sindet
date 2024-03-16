@@ -179,7 +179,7 @@ http://192.168.28.1:23234/rtp/239.3.1.52:4120
 http://192.168.28.1:23234/rtp/239.3.1.53:9136
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="体验频道",爱上4K
 http://192.168.28.1:23234/rtp/239.3.1.236:2000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="体验频道",4K超清
+#EXTINF:-1 tvg-name="北京4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="体验频道",4K超清
 http://192.168.28.1:23234/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩竞技
 http://192.168.28.1:23234/rtp/239.3.1.125:8001
