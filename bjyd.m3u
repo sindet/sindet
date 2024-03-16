@@ -155,7 +155,7 @@ http://192.168.28.1:23234/rtp/228.1.1.176:4120
 http://192.168.28.1:23234/rtp/228.1.1.177:4120
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://192.168.28.1:23234/rtp/228.1.1.142:8002
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
+#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://192.168.28.1:23234/rtp/228.1.1.20:8060
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="卫视频道",金鹰纪实
 http://192.168.28.1:23234/rtp/228.1.1.34:8156
@@ -165,15 +165,15 @@ http://192.168.28.1:23234/rtp/228.1.1.92:9252
 http://192.168.28.1:23234/rtp/228.1.1.93:9268
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视频道",中国交通
 http://192.168.28.1:23234/rtp/228.1.1.222:8002
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV1
 http://192.168.28.1:23234/rtp/228.1.1.32:8152
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV2
 http://192.168.28.1:23234/rtp/228.1.1.97:4120
-#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV3
+#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视频道",CETV3
 http://192.168.28.1:23234/rtp/228.1.1.98:4120
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV4
 http://192.168.28.1:23234/rtp/228.1.1.99:4120
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育
 http://192.168.28.1:23234/rtp/228.1.1.96:4120
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="体验频道",爱上4K
 http://192.168.28.1:23234/rtp/228.1.1.38:2000
@@ -189,15 +189,15 @@ http://192.168.28.1:23234/rtp/228.1.1.225:8002
 http://192.168.28.1:23234/rtp/228.1.1.226:8002
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体验频道",快乐垂钓
 http://192.168.28.1:23234/rtp/228.1.1.144:8002
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
 http://192.168.28.1:23234/rtp/228.1.1.145:8002
-#EXTINF:-1 tvg-name="淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
+#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
 http://192.168.28.1:23234/rtp/228.1.1.202:8002
-#EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘Baby
+#EXTINF:-1 tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘Baby
 http://192.168.28.1:23234/rtp/228.1.1.128:8001
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
 http://192.168.28.1:23234/rtp/228.1.1.126:8001
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘电影
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘电影
 http://192.168.28.1:23234/rtp/228.1.1.124:8001
 #EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",萌宠TV
 http://192.168.28.1:23234/rtp/228.1.1.135:8002
