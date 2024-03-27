@@ -36,9 +36,9 @@ http://192.168.28.1:23234/rtp/228.1.1.181:8144
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://192.168.28.1:23234/rtp/228.1.1.23:8004
 #EXTINF:-1 tvg-name="cctv4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
-http://192.168.28.1:23234/rtp/228.1.1.23:8004
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
 http://192.168.28.1:23234/rtp/228.1.1.227:2000
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+http://192.168.28.1:23234/rtp/228.1.1.213:4420
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
 http://192.168.28.1:23234/rtp/228.1.1.203:4220
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
@@ -73,6 +73,8 @@ http://192.168.28.1:23234/rtp/228.1.1.189:8000
 http://192.168.28.1:23234/rtp/228.1.1.195:8000
 #EXTINF:-1 tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京国际
 http://192.168.28.1:23234/rtp/228.1.1.111:8000
+#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png"group-title="体验频道",纪实科教8K（移动）
+http://192.168.28.1:23234/rtp/228.1.1.217:8002
 #EXTINF:-1 tvg-name="朝阳融媒" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",朝阳融媒
 http://192.168.28.1:23234/rtp/228.1.1.140:8001
 #EXTINF:-1 tvg-name="通州融媒" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",通州融媒
