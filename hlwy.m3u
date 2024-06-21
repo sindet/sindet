@@ -16,3 +16,12 @@ http://php.jdshipin.com:8880/smt.php?id=Xinhe
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png"group-title="体验频道",纪实科教8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="咪咕体育",咪咕运动
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕直播 𝟙
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕直播 𝟚
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕直播 𝟛
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕体育",咪咕直播 𝟜
