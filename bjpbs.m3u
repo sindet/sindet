@@ -50,9 +50,9 @@ http://124.205.11.242:91/live/BTVTY-8M/live.m3u8
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京频道",北京生活
 http://124.205.11.242:91/live/BTVSH-5M/live.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京频道",北京新闻
-http://124.205.11.242:91/live/BTVXW-5M/live.m3u8
+http://124.205.11.242:91/live/BTVXW-1500k/live.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
-http://124.205.11.242:91/live/BTVKK-5M/live.m3u8
+http://124.205.11.242:91/live/BTVKK-1500k/live.m3u8
 #EXTINF:-1 tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京国际
 http://124.205.11.242:91/live/BTVGJ-1500k/live.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
