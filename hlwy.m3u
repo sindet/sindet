@@ -1,5 +1,25 @@
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="北京频道",重温经典
 http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京卫视
+http://124.205.11.242:91/live/BJWShd-5M/live.m3u8
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺
+http://124.205.11.242:91/live/BTVWYhd-5M/live.m3u8
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京频道",纪实科教
+http://124.205.11.242:91/live/BTVKJhd-5M/live.m3u8
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京频道",北京影视
+http://124.205.11.242:91/live/BTVYShd-5M/live.m3u8
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京频道",北京财经
+http://124.205.11.242:91/live/BTVCJhd-5M/live.m3u8
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="北京频道",体育休闲
+http://124.205.11.242:91/live/BTVTYhd-8M/live.m3u8
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京频道",北京生活
+http://124.205.11.242:91/live/BTVSHhd-5M/live.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京频道",北京新闻
+http://124.205.11.242:91/live/BTVXWhd-5M/live.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
+http://124.205.11.242:91/live/BTVKKhd-5M/live.m3u8
+#EXTINF:-1 tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京国际
+http://124.205.11.242:91/live/BTVGJ-1500k/live.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="体验频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕善跑.png" group-title="咪咕体育",咪咕运动
