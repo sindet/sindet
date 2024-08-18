@@ -169,7 +169,7 @@ http://enlen.vip:4022/udp/239.200.201.121:8780
 http://enlen.vip:4022/udp/239.200.201.122:8784
 #EXTINF:-1tvg-name="山东教育"tvg-logo="https://live.fanmingming.com/tv/山东教育.png"group-title="体验频道",山东教育
 http://enlen.vip:4022/udp/239.200.201.77:8132
-#EXTINF:-1tvg-name="茶频道"tvg-logo="https://live.fanmingming.com/tv/茶频道.png"group-title="体验频道",茶频道
+#EXTINF:-1tvg-name="茶频道"tvg-logo="https://live.fanmingming.com/tv/茶.png"group-title="体验频道",茶频道
 http://enlen.vip:4022/udp/239.200.201.36:8404
 #EXTINF:-1tvg-name="快乐垂钓"tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png"group-title="体验频道",快乐垂钓
 http://enlen.vip:4022/udp/239.200.200.103:8400
