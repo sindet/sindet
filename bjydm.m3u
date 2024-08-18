@@ -9,6 +9,8 @@ rtp://228.1.1.191:8002
 rtp://228.1.1.25:8092
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
 rtp://228.1.1.192:8002
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+rtp://228.1.1.23:8004
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
 rtp://228.1.1.193:8002
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
@@ -33,8 +35,6 @@ rtp://228.1.1.183:8136
 rtp://228.1.1.215:8002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 rtp://228.1.1.181:8144
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
-rtp://228.1.1.23:8004
 #EXTINF:-1 tvg-name="cctv4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 rtp://228.1.1.227:2000
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
@@ -255,23 +255,9 @@ rtp://228.1.1.163:4120
 rtp://228.1.1.164:4120
 #EXTINF:-1 tvg-name="光影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",光影
 rtp://228.1.1.165:4120
-#EXTINF:-1 tvg-name="台球" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",台球
-rtp://228.1.1.166:4120
 #EXTINF:-1 tvg-name="爱生活" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",爱生活
 rtp://228.1.1.167:4120
 #EXTINF:-1 tvg-name="武术" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",武术
 rtp://228.1.1.168:4120
-#EXTINF:-1 tvg-name="高网" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",高网
-rtp://228.1.1.169:4120
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",足球
 rtp://228.1.1.170:4120
-#EXTINF:-1 tvg-name="文化北京" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="体验频道",文化北京
-rtp://228.1.1.115:8000
-#EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",体育赛事
-rtp://228.1.1.23:8004
-#EXTINF:-1 tvg-name="熊猫频道" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",熊猫频道
-rtp://228.1.1.28:8008
-#EXTINF:-1 tvg-name="百视通" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="体验频道",百视通
-rtp://228.1.1.212:8128
-#EXTINF:-1 tvg-name="收视指南" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",收视指南
-rtp://228.1.1.28:8008
