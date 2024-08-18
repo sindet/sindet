@@ -63,7 +63,7 @@ http://enlen.vip:4022/udp/239.200.200.100:8084
 http://enlen.vip:4022/udp/239.200.200.130:8012
 #EXTINF:-1tvg-name="央视台球"tvg-logo="https://live.fanmingming.com/tv/央视台球.png"group-title="中央频道",CCTV央视台球
 http://enlen.vip:4022/udp/239.200.200.135:8076
-#EXTINF:-1tvg-name="央视文化精品"tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png"group-title="中央频道",CCTV央视文化精品
+#EXTINF:-1tvg-name="文化精品"tvg-logo="https://live.fanmingming.com/tv/文化精品.png"group-title="中央频道",CCTV文化精品
 http://enlen.vip:4022/udp/239.200.200.92:8028
 #EXTINF:-1tvg-name="中学生"tvg-logo="https://live.fanmingming.com/tv/中学生.png"group-title="中央频道",CCTV中学生
 http://enlen.vip:4022/udp/239.200.200.136:8060
