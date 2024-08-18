@@ -173,7 +173,7 @@ http://enlen.vip:4022/udp/239.200.201.36:8404
 http://enlen.vip:4022/udp/239.200.200.103:8400
 #EXTINF:-1tvg-name="四海钓鱼"tvg-logo="https://live.fanmingming.com/tv/四海钓鱼.png"group-title="体验频道",四海钓鱼
 http://enlen.vip:4022/udp/239.200.201.171:8636
-#EXTINF:-1tvg-name="国学频道"tvg-logo="https://live.fanmingming.com/tv/国学频道.png"group-title="体验频道",国学频道
+#EXTINF:-1tvg-name="国学"tvg-logo="https://live.fanmingming.com/tv/国学.png"group-title="体验频道",国学频道
 http://enlen.vip:4022/udp/239.200.200.97:8108
 #EXTINF:-1tvg-name="环球旅游"tvg-logo="https://live.fanmingming.com/tv/环球旅游.png"group-title="体验频道",环球旅游
 http://enlen.vip:4022/udp/239.200.201.175:8652
