@@ -85,7 +85,7 @@ http://enlen.vip:4022/udp/239.200.200.178:8884
 http://enlen.vip:4022/udp/239.200.200.116:8708
 #EXTINF:-1tvg-name="楚雄文旅"tvg-logo="https://live.fanmingming.com/tv/楚雄文旅.png"group-title="云南频道",楚雄文旅
 http://enlen.vip:4022/udp/239.200.200.117:8712
-#EXTINF:-1tvg-name="澜湄国际"tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png"group-title="体验频道",澜湄国际
+#EXTINF:-1tvg-name="澜湄国际"tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png"group-title="云南频道",澜湄国际
 http://enlen.vip:4022/udp/239.200.200.33:8024
 #EXTINF:-1tvg-id="北京卫视"tvg-name="北京卫视"tvg-logo="https://live.fanmingming.com/tv/北京卫视.png"group-title="卫视频道",北京卫视
 http://enlen.vip:4022/udp/239.200.200.5:8024
