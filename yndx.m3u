@@ -191,8 +191,6 @@ http://enlen.vip:4022/udp/239.200.201.174:8640
 http://enlen.vip:4022/udp/239.200.201.175:8652
 #EXTINF:-1tvg-name="环球奇观"tvg-logo="https://live.fanmingming.com/tv/环球奇观.png"group-title="体验频道",环球奇观
 http://enlen.vip:4022/udp/239.200.200.94:8100
-#EXTINF:-1tvg-name="自然传奇"tvg-logo="https://live.fanmingming.com/tv/自然传奇.png"group-title="体验频道",自然传奇
-http://enlen.vip:4022/udp/239.200.200.80:1234
 #EXTINF:-1tvg-name="河南梨园"tvg-logo="https://live.fanmingming.com/tv/河南梨园.png"group-title="体验频道",梨园
 http://enlen.vip:4022/udp/239.200.200.101:8048
 #EXTINF:-1tvg-name="生态环境"tvg-logo="https://live.fanmingming.com/tv/生态环境.png"group-title="体验频道",生态环境
