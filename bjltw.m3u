@@ -199,7 +199,7 @@ http://222.128.86.76:8133/rtp/239.3.1.251:8001
 http://222.128.86.76:8133/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
 http://222.128.86.76:8133/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-name="淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
+#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
 http://222.128.86.76:8133/rtp/239.3.1.178:8001
 #EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘娱乐
 http://222.128.86.76:8133/rtp/239.3.1.100:8001
