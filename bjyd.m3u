@@ -57,7 +57,7 @@ http://192.168.28.1:23234/rtp/228.1.1.209:4220
 http://192.168.28.1:23234/rtp/228.1.1.115:8000
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺
 http://192.168.28.1:23234/rtp/228.1.1.116:8000
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京频道",纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京频道",纪实科教
 http://192.168.28.1:23234/rtp/228.1.1.196:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京频道",北京影视
 http://192.168.28.1:23234/rtp/228.1.1.190:8000
@@ -69,7 +69,7 @@ http://192.168.28.1:23234/rtp/228.1.1.117:8000
 http://192.168.28.1:23234/rtp/228.1.1.198:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京频道",北京新闻
 http://192.168.28.1:23234/rtp/228.1.1.189:8000
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
 http://192.168.28.1:23234/rtp/228.1.1.195:8000
 #EXTINF:-1 tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京国际
 http://192.168.28.1:23234/rtp/228.1.1.111:8000
@@ -191,9 +191,9 @@ http://192.168.28.1:23234/rtp/228.1.1.226:8002
 http://192.168.28.1:23234/rtp/228.1.1.144:8002
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
 http://192.168.28.1:23234/rtp/228.1.1.145:8002
-#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
+#EXTINF:-1 tvg-name="淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
 http://192.168.28.1:23234/rtp/228.1.1.202:8002
-#EXTINF:-1 tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘Baby
+#EXTINF:-1 tvg-name="淘BABY" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘BABY
 http://192.168.28.1:23234/rtp/228.1.1.128:8001
 #EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
 http://192.168.28.1:23234/rtp/228.1.1.126:8001
