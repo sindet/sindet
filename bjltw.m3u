@@ -263,7 +263,7 @@ http://222.128.86.76:8133/rtp/239.3.1.86:4120
 http://222.128.86.76:8133/rtp/239.3.1.87:4120
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",足球
 http://222.128.86.76:8133/rtp/239.3.1.89:4120
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="体验频道",文化北京
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="体验频道",音乐现场
 http://222.128.86.76:8133/rtp/239.3.1.70:4120
-#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",体育赛事
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://live.fanmingming.com/tv/IPTV魅力时尚.png" group-title="体验频道",魅力时尚
 http://222.128.86.76:8133/rtp/239.2.1.196:9012
