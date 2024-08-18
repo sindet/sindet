@@ -149,7 +149,7 @@ http://enlen.vip:4022/udp/239.200.200.58:8300
 http://enlen.vip:4022/udp/239.200.200.62:8316
 #EXTINF:-1tvg-id="西藏卫视"tvg-name="西藏卫视"tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png"group-title="卫视频道",西藏卫视
 http://enlen.vip:4022/udp/239.200.200.61:8312
-#EXTINF:-1tvg-name="大湾区"tvg-logo="https://live.fanmingming.com/tv/大湾区.png"group-title="卫视频道",大湾区
+#EXTINF:-1tvg-name="大湾区卫视"tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png"group-title="卫视频道",大湾区卫视
 http://enlen.vip:4022/udp/239.200.201.146:8136
 #EXTINF:-1tvg-id="三沙卫视"tvg-name="三沙卫视"tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png"group-title="卫视频道",三沙卫视
 http://enlen.vip:4022/udp/239.200.201.136:8140
@@ -203,8 +203,6 @@ http://enlen.vip:4022/udp/239.200.200.90:8064
 http://enlen.vip:4022/udp/239.200.201.33:4120
 #EXTINF:-1tvg-name="中华美食"tvg-logo="https://live.fanmingming.com/tv/中华美食.png"group-title="体验频道",中华美食
 http://enlen.vip:4022/udp/239.200.201.45:8800
-#EXTINF:-1tvg-name="中华特产"tvg-logo="https://live.fanmingming.com/tv/中华特产.png"group-title="体验频道",中华特产
-http://enlen.vip:4022/udp/239.200.201.155:8124
 #EXTINF:-1tvg-name="优优宝贝"tvg-logo="https://live.fanmingming.com/tv/优优宝贝.png"group-title="体验频道",优优宝贝
 http://enlen.vip:4022/udp/239.200.201.173:8644
 #EXTINF:-1tvg-name="车迷频道"tvg-logo="https://live.fanmingming.com/tv/车迷频道.png"group-title="体验频道",车迷频道
