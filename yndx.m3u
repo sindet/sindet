@@ -85,6 +85,8 @@ http://enlen.vip:4022/udp/239.200.200.178:8884
 http://enlen.vip:4022/udp/239.200.200.116:8708
 #EXTINF:-1tvg-name="楚雄文旅"tvg-logo="https://live.fanmingming.com/tv/楚雄文旅.png"group-title="云南频道",楚雄文旅
 http://enlen.vip:4022/udp/239.200.200.117:8712
+#EXTINF:-1tvg-name="澜湄国际"tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png"group-title="体验频道",澜湄国际
+http://enlen.vip:4022/udp/239.200.200.33:8024
 #EXTINF:-1tvg-id="北京卫视"tvg-name="北京卫视"tvg-logo="https://live.fanmingming.com/tv/北京卫视.png"group-title="卫视频道",北京卫视
 http://enlen.vip:4022/udp/239.200.200.5:8024
 #EXTINF:-1tvg-id="东方卫视"tvg-name="东方卫视"tvg-logo="https://live.fanmingming.com/tv/东方卫视.png"group-title="卫视频道",东方卫视
@@ -185,13 +187,13 @@ http://enlen.vip:4022/udp/239.200.201.33:4120
 http://enlen.vip:4022/udp/239.200.201.45:8800
 #EXTINF:-1tvg-name="中华特产"tvg-logo="https://live.fanmingming.com/tv/中华特产.png"group-title="体验频道",中华特产
 http://enlen.vip:4022/udp/239.200.201.155:8124
-#EXTINF:-1tvg-name="CETV1"tvg-logo="https://live.fanmingming.com/tv/CETV1.png"group-title="央视频道",CETV1
+#EXTINF:-1tvg-name="CETV1"tvg-logo="https://live.fanmingming.com/tv/CETV1.png"group-title="体验频道",CETV1
 http://enlen.vip:4022/udp/239.200.201.49:8756
-#EXTINF:-1tvg-name="CETV1"tvg-logo="https://live.fanmingming.com/tv/CETV1.png"group-title="央视频道",CETV1
+#EXTINF:-1tvg-name="CETV1"tvg-logo="https://live.fanmingming.com/tv/CETV1.png"group-title="体验频道",CETV1
 http://enlen.vip:4022/udp/239.200.201.145:8852
-#EXTINF:-1tvg-name="CETV2"tvg-logo="https://live.fanmingming.com/tv/CETV2.png"group-title="央视频道",CETV2
+#EXTINF:-1tvg-name="CETV2"tvg-logo="https://live.fanmingming.com/tv/CETV2.png"group-title="体验频道",CETV2
 http://enlen.vip:4022/udp/239.200.201.121:8780
-#EXTINF:-1tvg-name="CETV4"tvg-logo="https://live.fanmingming.com/tv/CETV4.png"group-title="央视频道",CETV4
+#EXTINF:-1tvg-name="CETV4"tvg-logo="https://live.fanmingming.com/tv/CETV4.png"group-title="体验频道",CETV4
 http://enlen.vip:4022/udp/239.200.201.122:8784
 #EXTINF:-1tvg-name="山东教育"tvg-logo="https://live.fanmingming.com/tv/山东教育.png"group-title="体验频道",山东教育
 http://enlen.vip:4022/udp/239.200.201.77:8132
@@ -215,5 +217,4 @@ http://enlen.vip:4022/udp/239.200.201.174:8640
 http://enlen.vip:4022/udp/239.200.201.178:8684
 #EXTINF:-1tvg-name="家庭理财"tvg-logo="https://live.fanmingming.com/tv/家庭理财.png"group-title="体验频道",家庭理财
 http://enlen.vip:4022/udp/239.200.201.177:8656
-#EXTINF:-1tvg-name="澜湄国际"tvg-logo="https://live.fanmingming.com/tv/澜湄国际.png"group-title="体验频道",澜湄国际
-http://enlen.vip:4022/udp/239.200.200.33:8024
+
