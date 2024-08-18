@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://la.ytwg.store/epg/e.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央频道",CCTV1
 http://222.128.86.76:8133/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央频道",CCTV2
@@ -69,7 +69,7 @@ http://222.128.86.76:8133/rtp/239.3.1.243:8000
 http://222.128.86.76:8133/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京频道",北京新闻
 http://222.128.86.76:8133/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京频道",卡酷少儿
 http://222.128.86.76:8133/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京国际频道" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京国际
 http://222.128.86.76:8133/rtp/239.3.1.235:8000
@@ -193,15 +193,13 @@ http://222.128.86.76:8133/rtp/239.3.1.128:8001
 http://222.128.86.76:8133/rtp/239.3.1.164:8001
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
 http://222.128.86.76:8133/rtp/239.3.1.165:8001
-#EXTINF:-1 tvg-name="大健康" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",大健康
-http://222.128.86.76:8133/rtp/239.3.1.251:8001
-#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘电影
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘电影
 http://222.128.86.76:8133/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘剧场
 http://222.128.86.76:8133/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-name="北京淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
+#EXTINF:-1 tvg-name="淘精彩" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘精彩
 http://222.128.86.76:8133/rtp/239.3.1.178:8001
-#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘娱乐
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘娱乐
 http://222.128.86.76:8133/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-name="北京淘BABY" tvg-logo="https://live.fanmingming.com/tv/IPTVEFEL.png" group-title="体验频道",淘BABY
 http://222.128.86.76:8133/rtp/239.3.1.238:8001
