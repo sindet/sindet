@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1tvg-id="CCTV1"tvg-name="CCTV1"tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"group-title="中央频道",CCTV1综合
-rtp://228.0.0.201:6002
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/1.m3u8
 #EXTINF:-1tvg-id="CCTV2"tvg-name="CCTV2"tvg-logo="https://live.fanmingming.com/tv/CCTV2.png"group-title="中央频道",CCTV2财经
 http://183.92.4.163:4000/udp/228.0.0.157:7157
 #EXTINF:-1tvg-id="CCTV3"tvg-name="CCTV3"tvg-logo="https://live.fanmingming.com/tv/CCTV3.png"group-title="中央频道",CCTV3综艺
