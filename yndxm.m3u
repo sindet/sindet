@@ -6,7 +6,7 @@ http://183.92.4.163:4000/udp/228.0.0.157:7157
 #EXTINF:-1tvg-id="CCTV3"tvg-name="CCTV3"tvg-logo="https://live.fanmingming.com/tv/CCTV3.png"group-title="中央频道",CCTV3综艺
 rtp://228.0.0.157:7157
 #EXTINF:-1tvg-id="CCTV4"tvg-name="CCTV4"tvg-logo="https://live.fanmingming.com/tv/CCTV4.png"group-title="中央频道",CCTV4中文国际
-rtp://239.200.200.128:8652
+rtp://228.0.3.68:6434
 #EXTINF:-1tvg-id="CCTV5"tvg-name="CCTV5"tvg-logo="https://live.fanmingming.com/tv/CCTV5.png"group-title="中央频道",CCTV5体育
 rtp://239.200.200.20:9016
 #EXTINF:-1tvg-id="CCTV5+"tvg-name="CCTV5+"tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png"group-title="中央频道",CCTV5+体育赛事
