@@ -193,36 +193,30 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225883/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226340/1.m3u8
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="体验频道",环球旅游
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226341/1.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩篮球
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩竞技
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体验频道",快乐垂钓
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226297/1.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="体验频道",茶频道
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226294/1.m3u8
+#EXTINF:-1 tvg-name="4K修复1" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="体验频道",4K修复1
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226290/1.m3u8
+#EXTINF:-1 tvg-name="4K修复2" tvg-logo="https://live.fanmingming.com/tv/4k电影.png" group-title="体验频道",4K修复2
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226306/1.m3u8
 #EXTINF:-1 tvg-name="电影1" tvg-logo="https://live.fanmingming.com/tv/电影1.png" group-title="体验频道",电影1
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226309/1.m3u8
 #EXTINF:-1 tvg-name="电影2" tvg-logo="https://live.fanmingming.com/tv/电影2.png" group-title="体验频道",电影2
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226307/1.m3u8
-#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="体验频道",4K修复
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226290/1.m3u8
-#EXTINF:-1 tvg-name="4K修复" tvg-logo="https://live.fanmingming.com/tv/4k电影.png" group-title="体验频道",4K修复
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226306/1.m3u8
 #EXTINF:-1 tvg-name="电视剧1" tvg-logo="https://live.fanmingming.com/tv/电视剧1.png" group-title="体验频道",电视剧1
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226302/1.m3u8
 #EXTINF:-1 tvg-name="电视剧2" tvg-logo="https://live.fanmingming.com/tv/电视剧2.png" group-title="体验频道",电视剧2
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-name="电视剧3" tvg-logo="https://live.fanmingming.com/tv/电视剧3.png" group-title="体验频道",电视剧3
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226305/1.m3u8
-#EXTINF:-1 tvg-name="成铁电视" tvg-logo="https://live.fanmingming.com/tv/成铁电视.png" group-title="体验频道",成铁电视
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226027/1.m3u8
-#EXTINF:-1 tvg-name="百事通" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="体验频道",百事通
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225955/1.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩篮球
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩竞技
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="体验频道",财富天下
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226338/1.m3u8
-#EXTINF:-1 tvg-name="书法" tvg-logo="https://live.fanmingming.com/tv/书法.png" group-title="体验频道",书法
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226342/1.m3u8
 #EXTINF:-1 tvg-name="车迷" tvg-logo="https://live.fanmingming.com/tv/车迷.png" group-title="体验频道",车迷
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226343/1.m3u8
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://live.fanmingming.com/tv/中华特产.png" group-title="体验频道",中华特产
