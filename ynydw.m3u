@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+8#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央频道",CCTV1
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央频道",CCTV2
@@ -179,7 +179,7 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225801/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225889/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="地方频道",动漫秀场
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226347/1.m3u8
-#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/动画.png" group-title="地方频道",动画
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="地方频道",动画
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226311/1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="地方频道",CETV1
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226057/1.m3u8
@@ -215,9 +215,9 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226305/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226027/1.m3u8
 #EXTINF:-1 tvg-name="百事通" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="体验频道",百事通
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225955/1.m3u8
-#EXTINF:-1 tvg-name="体育1" tvg-logo="https://live.fanmingming.com/tv/体育1.png" group-title="体验频道",体育1
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩篮球
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226321/1.m3u8
-#EXTINF:-1 tvg-name="体育2" tvg-logo="https://live.fanmingming.com/tv/体育2.png" group-title="体验频道",体育2
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩中原.png" group-title="体验频道",睛彩竞技
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226323/1.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="体验频道",财富天下
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226338/1.m3u8
