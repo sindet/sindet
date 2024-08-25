@@ -161,7 +161,7 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225563/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225671/1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="地方频道",新疆卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225645/1.m3u8
-#EXTINF:-1 tvg-name="陕西农林" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方频道",农林卫视
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="地方频道",农林卫视
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225887/1.m3u8
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="地方频道",纪实人文
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225921/1.m3u8
@@ -179,8 +179,6 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225801/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225889/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="地方频道",动漫秀场
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226347/1.m3u8
-#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="地方频道",动画
-http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226311/1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="地方频道",CETV1
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226057/1.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="地方频道",CETV2
@@ -231,3 +229,5 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226302/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-name="电视剧3" tvg-logo="https://live.fanmingming.com/tv/电视剧3.png" group-title="体验频道",电视剧3
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226305/1.m3u8
+#EXTINF:-1 tvg-name="动画" tvg-logo="https://live.fanmingming.com/tv/IPTV少儿动画.png" group-title="地方频道",动画
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226311/1.m3u8
