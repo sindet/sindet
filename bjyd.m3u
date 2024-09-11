@@ -169,8 +169,6 @@ http://192.168.28.1:23234/rtp/228.1.1.222:8002
 http://192.168.28.1:23234/rtp/228.1.1.32:8152
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="地方频道",CETV2
 http://192.168.28.1:23234/rtp/228.1.1.97:4120
-#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="地方频道",CETV3
-http://192.168.28.1:23234/rtp/228.1.1.98:4120
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="地方频道",CETV4
 http://192.168.28.1:23234/rtp/228.1.1.99:4120
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="地方频道",山东教育
