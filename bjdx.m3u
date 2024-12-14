@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://la.ytwg.store/epg/e.xml.gz" 
+﻿#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="中央频道",CCTV1
 http://192.168.28.1:23234/rtp/225.1.8.1:8008
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="中央频道",CCTV2
