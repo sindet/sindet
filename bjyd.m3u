@@ -83,6 +83,8 @@ http://192.168.28.1:23234/rtp/228.1.1.139:8001
 http://192.168.28.1:23234/rtp/228.1.1.219:8002
 #EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",密云电视台
 http://192.168.28.1:23234/rtp/228.1.1.115:8000
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="北京频道",重温经典
+http://192.168.28.1:23234/rtp/228.1.1.237:8002
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="地方频道",湖南卫视
 http://192.168.28.1:23234/rtp/228.1.1.33:8012
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="地方频道",江苏卫视
