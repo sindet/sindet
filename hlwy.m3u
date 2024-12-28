@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="北京频道",重温经典
 http://120.76.248.139/live/bfgd/4200000635.m3u8
-#EXTINF:-1 tvg-name="丽江综合" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="北京频道",丽江综合
+#EXTINF:-1 tvg-name="丽江新闻综合" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="北京频道",丽江新闻综合
 https://live3f.lijiang.cn/live/tvzh_720p.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="北京频道",凤凰卫视
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
