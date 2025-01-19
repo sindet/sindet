@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226514/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
@@ -55,7 +53,7 @@ http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.co
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225604/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录576" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录576.png" group-title="央视频道",CGTN纪录576
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226520/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
@@ -65,89 +63,89 @@ http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.co
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226421/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226532/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226525/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226585/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="北京频道",黑龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226582/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://live.fanmingming.cn/tv/黑龙江新闻.png" group-title="北京频道",黑龙江新闻
+#EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://live.fanmingming.cn/tv/黑龙江新闻.png" group-title="黑龙江频道",黑龙江新闻
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226330/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://live.fanmingming.cn/tv/黑龙江新闻.png" group-title="北京频道",黑龙江新闻
+#EXTINF:-1 tvg-name="黑龙江新闻" tvg-logo="https://live.fanmingming.cn/tv/黑龙江新闻.png" group-title="黑龙江频道",黑龙江新闻
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226368/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="北京频道",黑龙江都市
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226301/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="北京频道",黑龙江都市
+#EXTINF:-1 tvg-name="黑龙江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市.png" group-title="黑龙江频道",黑龙江都市
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226427/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江影视.png" group-title="北京频道",黑龙江影视
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江影视.png" group-title="北京频道",黑龙江影视
+#EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226365/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="北京频道",黑龙江文体
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226239/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="北京频道",黑龙江文体
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.cn/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226424/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.cn/tv/黑龙江少儿.png" group-title="北京频道",黑龙江少儿
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.cn/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226304/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.cn/tv/黑龙江少儿.png" group-title="北京频道",黑龙江少儿
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.cn/tv/黑龙江少儿.png" group-title="黑龙江频道",黑龙江少儿
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226371/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://live.fanmingming.cn/tv/黑龙江农业.png" group-title="北京频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://live.fanmingming.cn/tv/黑龙江农业.png" group-title="黑龙江频道",黑龙江农业
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://live.fanmingming.cn/tv/黑龙江农业.png" group-title="北京频道",黑龙江农业
+#EXTINF:-1 tvg-name="黑龙江农业" tvg-logo="https://live.fanmingming.cn/tv/黑龙江农业.png" group-title="黑龙江频道",黑龙江农业
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226492/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="哈尔滨综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨综合.png" group-title="北京频道",哈尔滨综合
+#EXTINF:-1 tvg-name="哈尔滨综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨综合.png" group-title="黑龙江频道",哈尔滨综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226434/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="哈尔滨综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨综合.png" group-title="北京频道",哈尔滨综合
+#EXTINF:-1 tvg-name="哈尔滨综合" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨综合.png" group-title="黑龙江频道",哈尔滨综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨影视.png" group-title="北京频道",哈尔滨影视
+#EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨影视.png" group-title="黑龙江频道",哈尔滨影视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨生活.png" group-title="北京频道",哈尔滨生活
+#EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="https://live.fanmingming.cn/tv/哈尔滨生活.png" group-title="黑龙江频道",哈尔滨生活
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="齐齐哈尔综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔综合.png" group-title="北京频道",齐齐哈尔综合
+#EXTINF:-1 tvg-name="齐齐哈尔综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔综合.png" group-title="黑龙江频道",齐齐哈尔综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226413/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="齐齐哈尔综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔综合.png" group-title="北京频道",齐齐哈尔综合
+#EXTINF:-1 tvg-name="齐齐哈尔综合" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔综合.png" group-title="黑龙江频道",齐齐哈尔综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔经济.png" group-title="北京频道",齐齐哈尔经济
+#EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔经济.png" group-title="黑龙江频道",齐齐哈尔经济
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226493/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔经济.png" group-title="北京频道",齐齐哈尔经济
+#EXTINF:-1 tvg-name="齐齐哈尔经济" tvg-logo="https://live.fanmingming.cn/tv/齐齐哈尔经济.png" group-title="黑龙江频道",齐齐哈尔经济
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226555/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="牡丹江综合" tvg-logo="https://live.fanmingming.cn/tv/牡丹江综合.png" group-title="北京频道",牡丹江综合
+#EXTINF:-1 tvg-name="牡丹江综合" tvg-logo="https://live.fanmingming.cn/tv/牡丹江综合.png" group-title="黑龙江频道",牡丹江综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226422/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="佳木斯综合" tvg-logo="https://live.fanmingming.cn/tv/佳木斯综合.png" group-title="北京频道",佳木斯综合
+#EXTINF:-1 tvg-name="佳木斯综合" tvg-logo="https://live.fanmingming.cn/tv/佳木斯综合.png" group-title="黑龙江频道",佳木斯综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226451/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="大庆综合" tvg-logo="https://live.fanmingming.cn/tv/大庆综合.png" group-title="北京频道",大庆综合
+#EXTINF:-1 tvg-name="大庆综合" tvg-logo="https://live.fanmingming.cn/tv/大庆综合.png" group-title="黑龙江频道",大庆综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226484/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="大庆教育" tvg-logo="https://live.fanmingming.cn/tv/大庆教育.png" group-title="北京频道",大庆教育
+#EXTINF:-1 tvg-name="大庆教育" tvg-logo="https://live.fanmingming.cn/tv/大庆教育.png" group-title="黑龙江频道",大庆教育
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226523/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="鸡西综合" tvg-logo="https://live.fanmingming.cn/tv/鸡西综合.png" group-title="北京频道",鸡西综合
+#EXTINF:-1 tvg-name="鸡西综合" tvg-logo="https://live.fanmingming.cn/tv/鸡西综合.png" group-title="黑龙江频道",鸡西综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226410/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="鸡西安全" tvg-logo="https://live.fanmingming.cn/tv/鸡西安全.png" group-title="北京频道",鸡西安全
+#EXTINF:-1 tvg-name="鸡西安全" tvg-logo="https://live.fanmingming.cn/tv/鸡西安全.png" group-title="黑龙江频道",鸡西安全
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226481/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="双鸭山综合" tvg-logo="https://live.fanmingming.cn/tv/双鸭山综合.png" group-title="北京频道",双鸭山综合
+#EXTINF:-1 tvg-name="双鸭山综合" tvg-logo="https://live.fanmingming.cn/tv/双鸭山综合.png" group-title="黑龙江频道",双鸭山综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226529/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="双鸭山综合" tvg-logo="https://live.fanmingming.cn/tv/双鸭山综合.png" group-title="北京频道",双鸭山综合
+#EXTINF:-1 tvg-name="双鸭山综合" tvg-logo="https://live.fanmingming.cn/tv/双鸭山综合.png" group-title="黑龙江频道",双鸭山综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226502/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="鹤岗综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗综合.png" group-title="北京频道",鹤岗综合
+#EXTINF:-1 tvg-name="鹤岗综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗综合.png" group-title="黑龙江频道",鹤岗综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226496/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="鹤岗综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗综合.png" group-title="北京频道",鹤岗综合
+#EXTINF:-1 tvg-name="鹤岗综合" tvg-logo="https://live.fanmingming.cn/tv/鹤岗综合.png" group-title="黑龙江频道",鹤岗综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226534/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="伊春综合" tvg-logo="https://live.fanmingming.cn/tv/伊春综合.png" group-title="北京频道",伊春综合
+#EXTINF:-1 tvg-name="伊春综合" tvg-logo="https://live.fanmingming.cn/tv/伊春综合.png" group-title="黑龙江频道",伊春综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226416/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="大兴安岭综合" tvg-logo="https://live.fanmingming.cn/tv/大兴安岭综合.png" group-title="北京频道",大兴安岭综合
+#EXTINF:-1 tvg-name="大兴安岭综合" tvg-logo="https://live.fanmingming.cn/tv/大兴安岭综合.png" group-title="黑龙江频道",大兴安岭综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226499/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="漠河综合" tvg-logo="https://live.fanmingming.cn/tv/漠河综合.png" group-title="北京频道",漠河综合
+#EXTINF:-1 tvg-name="漠河综合" tvg-logo="https://live.fanmingming.cn/tv/漠河综合.png" group-title="黑龙江频道",漠河综合
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226535/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
