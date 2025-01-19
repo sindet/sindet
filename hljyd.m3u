@@ -59,9 +59,9 @@ http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.co
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226520/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226543/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226431/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
@@ -153,9 +153,9 @@ http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.co
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226251/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/北京卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/纪实科技.png" group-title="卫视频道",北京纪实科教
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科技.png" group-title="卫视频道",北京纪实科教
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
